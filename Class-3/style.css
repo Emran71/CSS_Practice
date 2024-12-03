@@ -1,0 +1,29 @@
+*{
+    background-color: #9D8DC5;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+h1{
+    text-align:center;
+    color: white;
+}
+.container{
+    height: 250px;
+    width: 300px;
+    text-align: center;
+    margin:10px;
+    padding: 20px;
+    background-color: lightblue;
+    color: white;
+    border-radius: 5px;
+    overflow: auto;
+   
+}
+.container p{
+    align-content: center;
+}
+
+
+
